@@ -140,7 +140,7 @@ void loop() {
 
   // json file yang akan dikirim ke database
   String jsonObject = (
-    "{\"email\":\"123@mail.com\",\"spo2\":\""+spo+"\",\"bpm\":\""+hr+"\"}");
+    "{\"email\":\"rahmat.wibowo21@gmail.com\",\"spo2\":\""+spo+"\",\"bpm\":\""+hr+"\"}");
 
 
   // Reset display
